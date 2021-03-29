@@ -1,2 +1,2 @@
 # test-repository
-Test repository, for trying the github.
+Test repository to trying the github.
